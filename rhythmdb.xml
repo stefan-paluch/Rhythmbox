@@ -1,0 +1,715 @@
+
+<?xml version="1.0" standalone="yes"?>
+
+<!-- ~/.local/share/rhythmbox/rhythmdb.xml -->
+
+<rhythmdb version="2.0">
+  
+  <entry type="iradio">
+    <title>Radio Dzieciom</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8966</location>
+    <play-count>1</play-count>
+    <last-played>1571740360</last-played>
+    <bitrate>119</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Przeboje PRL</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8466</location>
+    <play-count>1</play-count>
+    <last-played>1571740356</last-played>
+    <bitrate>45</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Slynne glosy i wielkie interpretacje</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8560</location>
+    <play-count>1</play-count>
+    <last-played>1571740385</last-played>
+    <bitrate>48</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Chopin</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8960</location>
+    <play-count>1</play-count>
+    <last-played>1571740358</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Nostalgia</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8518</location>
+    <play-count>1</play-count>
+    <last-played>1571740332</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>PR5_wsch</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8964</location>
+    <play-count>1</play-count>
+    <last-played>1571740346</last-played>
+    <bitrate>45</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Reportaz w Trojce</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8412</location>
+    <play-count>1</play-count>
+    <last-played>1571740366</last-played>
+    <bitrate>95</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Strefa rokendrola wolna od angola</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8576</location>
+    <play-count>1</play-count>
+    <last-played>1571740386</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Niezly Jazz</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8584</location>
+    <play-count>1</play-count>
+    <last-played>1571740330</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Rozrywka na wygnaniu</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8526</location>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Kosmos</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8408</location>
+    <play-count>1</play-count>
+    <last-played>1571740319</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Zapiski ze wspolczesnosci</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8406</location>
+    <play-count>1</play-count>
+    <last-played>1571740400</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Przezyjmy to jeszcze raz</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8506</location>
+    <play-count>1</play-count>
+    <last-played>1571740357</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Kolysanki</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8562</location>
+    <play-count>1</play-count>
+    <last-played>1571740315</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Classic Rock</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8460</location>
+    <play-count>2</play-count>
+    <last-played>1571740302</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Program 2</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8952</location>
+    <play-count>1</play-count>
+    <last-played>1571740350</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Muzyka zrodel</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8558</location>
+    <play-count>1</play-count>
+    <last-played>1571740327</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Z-archiwum-Radia-Wolna-Europa</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8488</location>
+    <play-count>1</play-count>
+    <last-played>1571740402</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Las</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8528</location>
+    <play-count>1</play-count>
+    <last-played>1571740321</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Prog Rock</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8462</location>
+    <play-count>1</play-count>
+    <last-played>1571740347</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Archeologia</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8514</location>
+    <play-count>1</play-count>
+    <last-played>1571740297</last-played>
+    <bitrate>48</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Klub Odkrywcow</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8502</location>
+    <play-count>1</play-count>
+    <last-played>1571740314</last-played>
+    <bitrate>44</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Zabawy z jezykiem</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8400</location>
+    <play-count>1</play-count>
+    <last-played>1571740397</last-played>
+    <bitrate>44</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Program 1</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8950</location>
+    <play-count>1</play-count>
+    <last-played>1571740349</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>PR5_dab</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8962</location>
+    <play-count>2</play-count>
+    <last-played>1571740344</last-played>
+    <bitrate>48</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Historia najnowsza ? Polska</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8482</location>
+    <play-count>1</play-count>
+    <last-played>1571740306</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Czworka</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8956</location>
+    <play-count>2</play-count>
+    <last-played>1571740304</last-played>
+    <bitrate>127</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Klasycy rocka</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8566</location>
+    <play-count>1</play-count>
+    <last-played>1571740312</last-played>
+    <bitrate>44</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Rytm</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8594</location>
+    <play-count>1</play-count>
+    <last-played>1571740381</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Polski top Wszech Czasow</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8556</location>
+    <play-count>1</play-count>
+    <last-played>1571740337</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Program alternatywny</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8534</location>
+    <play-count>1</play-count>
+    <last-played>1571740353</last-played>
+    <bitrate>129</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Bohaterowie naszych lektur</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8484</location>
+    <play-count>1</play-count>
+    <last-played>1571740301</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Wojciech Mann i  Marek Niedzwiecki</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8418</location>
+    <play-count>1</play-count>
+    <last-played>1571740392</last-played>
+    <bitrate>45</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Led Zeppelin</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8468</location>
+    <play-count>1</play-count>
+    <last-played>1571740322</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Nowa-Tradycja</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8546</location>
+    <play-count>1</play-count>
+    <last-played>1571740333</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Piosenki Niezaleznych</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8578</location>
+    <play-count>1</play-count>
+    <last-played>1571740336</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Przeboje Lata z Radiem</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8426</location>
+    <play-count>1</play-count>
+    <last-played>1571740354</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Jan Pawel II w Radiach Wolnosci</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8580</location>
+    <play-count>1</play-count>
+    <last-played>1571740308</last-played>
+    <bitrate>45</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Koncerty w Trojce</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8410</location>
+    <play-count>1</play-count>
+    <last-played>1571740317</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Genesis</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8574</location>
+    <rating>3</rating>
+    <play-count>2</play-count>
+    <last-played>1571740305</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Literatura</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8452</location>
+    <play-count>1</play-count>
+    <last-played>1571740363</last-played>
+    <bitrate>31</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Wywiady Marka Niedzwieckiego</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8416</location>
+    <play-count>1</play-count>
+    <last-played>1571740394</last-played>
+    <bitrate>45</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Ballady</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8474</location>
+    <play-count>1</play-count>
+    <last-played>1571740299</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Z dziejow Armii Krajowej</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8454</location>
+    <play-count>1</play-count>
+    <last-played>1571740395</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Konkurs Chopinowski</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8422</location>
+    <play-count>1</play-count>
+    <last-played>1571740318</last-played>
+    <bitrate>48</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Program 3</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8954</location>
+    <play-count>1</play-count>
+    <last-played>1571740351</last-played>
+    <bitrate>120</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Pink Floyd</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8470</location>
+    <play-count>1</play-count>
+    <last-played>1571740335</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Mijaja lata zostaja piosenki</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8568</location>
+    <play-count>1</play-count>
+    <last-played>1571740324</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Freud</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8404</location>
+    <play-count>1</play-count>
+    <last-played>1571740361</last-played>
+    <bitrate>30</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Historia Zwiazku Radzieckiego</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8512</location>
+    <play-count>1</play-count>
+    <last-played>1571740307</last-played>
+    <bitrate>48</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Studio Reportazu</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8508</location>
+    <play-count>1</play-count>
+    <last-played>1571740387</last-played>
+    <bitrate>45</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Minimax</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8446</location>
+    <play-count>1</play-count>
+    <last-played>1571740325</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>PolskieRadio24</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8480</location>
+    <play-count>1</play-count>
+    <last-played>1571740341</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Najpiekniejsze polskie piosenki</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8420</location>
+    <play-count>1</play-count>
+    <last-played>1571740329</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Za kulisami bezpieki i partii</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8492</location>
+    <play-count>1</play-count>
+    <last-played>1571740396</last-played>
+    <bitrate>45</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Szanty</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8520</location>
+    <play-count>1</play-count>
+    <last-played>1571740389</last-played>
+    <bitrate>47</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Potrojne Pasmo Przenoszenia</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8538</location>
+    <play-count>1</play-count>
+    <last-played>1571740343</last-played>
+    <bitrate>123</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Zagranica</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8958</location>
+    <play-count>1</play-count>
+    <last-played>1571740398</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>W jazzowym klimacie</title>
+    <genre>Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://195.245.217.140:8424</location>
+    <play-count>1</play-count>
+    <last-played>1571740391</last-played>
+    <bitrate>46</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+</rhythmdb>
